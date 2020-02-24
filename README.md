@@ -1,5 +1,5 @@
-Introduction to NLP with Tensroflow and pytorch
-===============================================
+Introduction to NLP with Deep Learning
+======================================
 
 ### 1) Introduction to NLP and Word Embeddings
 
@@ -11,4 +11,4 @@ Introduction to NLP with Tensroflow and pytorch
 
 ### 3b) Pretrained Word Embedding and Recurrent Neural Networks
 
-### 4b) Neural Machine Translation with Sequence-to-Sequence (seq2seq) Models
+### 4a) Neural Machine Translation with Sequence-to-Sequence (seq2seq) Models
