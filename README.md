@@ -21,6 +21,12 @@ We now introduce the Recurrent Neural Networks that are capable of processing se
 
 ### 3b) Pretrained Word Embedding and Recurrent Neural Networks
 
+In this section, we train 4 different RNNs for the taks of sentiment analysis
 
+I. RNN with 1 bidirectional LSTM layer and word embeding layer trained from scratch
+
+II. RNN with 1 bidirectional LSTM layer and a fine-tuned pretrained word embedding layer (GloVe)
+
+III. RNN with 1 bidirectional LSTM layer and a frozen word embedding layer (Glove)
 
 ### 4a) Neural Machine Translation with Sequence-to-Sequence (seq2seq) Models
