@@ -30,3 +30,12 @@ II. RNN with 1 bidirectional LSTM layer and a fine-tuned pretrained word embeddi
 III. RNN with 1 bidirectional LSTM layer and a frozen word embedding layer (Glove)
 
 ### 4a) Neural Machine Translation with Sequence-to-Sequence (seq2seq) Models
+
+
+
+## References
+
+[1] Recurrent Neural Networks and Language Models [(slides)](http://web.stanford.edu/class/cs224n/slides/cs224n-2020-lecture06-rnnlm.pdf) [(video)](https://youtu.be/iWea12EAu6U). CS224n: NLP with Deep Learning (2019), Stanford University
+
+[2] Machine Translation, Seq2Seq and Attention [(slides)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture08-nmt.pdf) [(video)](https://youtu.be/XXtpJxZBa2c). CS224n: NLP with Deep Learning (2019), Stanford University
+
