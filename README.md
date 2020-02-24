@@ -35,6 +35,8 @@ III. RNN with 1 bidirectional LSTM layer and a frozen word embedding layer (Glov
 
 ## References
 
+**Lectures and Presentations**
+
 [1] Introduction and Word Vectors [(slides)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture01-wordvecs1.pdf) [(video)](https://youtu.be/8rXD5-xhemo). CS224n: NLP with Deep Learning (2019), Stanford University
 
 [2] Word Vectors 2 and Word Senses [(slides)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture02-wordvecs2.pdf) [(video)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/readings/cs224n-2019-notes02-wordvecs2.pdf). CS224n: NLP with Deep Learning (2019), Stanford University
@@ -44,4 +46,8 @@ III. RNN with 1 bidirectional LSTM layer and a frozen word embedding layer (Glov
 [4] Recurrent Neural Networks and Language Models [(slides)](http://web.stanford.edu/class/cs224n/slides/cs224n-2020-lecture06-rnnlm.pdf) [(video)](https://youtu.be/iWea12EAu6U). CS224n: NLP with Deep Learning (2019), Stanford University
 
 [5] Machine Translation, Seq2Seq and Attention [(slides)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture08-nmt.pdf) [(video)](https://youtu.be/XXtpJxZBa2c). CS224n: NLP with Deep Learning (2019), Stanford University
+
+**NLP Books**
+
+[6] [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/). Dan Jurafsky, James H. Martin
 
