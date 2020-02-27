@@ -4,7 +4,7 @@ Introduction to NLP with Deep Learning
 ### 1) Introduction to NLP and Word Embeddings
 
 Notebook:
-([nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/01a_intro_NLP_and_word_embeddings.ipynb))
+([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/01a_intro_NLP_and_word_embeddings.ipynb))
 ([github](https://github.com/ccarpenterg/introNLP/blob/master/01a_intro_NLP_and_word_embeddings.ipynb))
 
 ### 2a) Natural Language Processing and Neural Networks
@@ -14,7 +14,7 @@ In this notebook, we build and train a shallow neural network for the sentiment 
 The last layer contains only one neuron, and it represents the probability for a particular IMDB review to be positive. This last layer uses sigmoid as the activation function.
 
 Notebook:
-([nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/02a_NLP_and_neural_networks.ipynb))
+([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/02a_NLP_and_neural_networks.ipynb))
 ([github](https://github.com/ccarpenterg/introNLP/blob/master/02a_NLP_and_neural_networks.ipynb))
 
 ### 2b) Pretrained Sentence Embeddings and Neural Networks
@@ -23,9 +23,17 @@ In the previous notebook, we trained an embedding layer from scratch using a sub
 
 Each IMDB review is fed to the pretrained sentence embedding layer and subsequently converted into a vector. This vector is the processed by a shallow neural network of 3 layers: input layer, hidden layer and output layer.
 
+Notebook:
+([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/02b_NLP_and_neural_networks.ipynb))
+([github](https://github.com/ccarpenterg/introNLP/blob/master/02b_NLP_and_neural_networks.ipynb))
+
 ### 3a) Natural Language Processing and Recurrent Neural Networks
 
 We now introduce the Recurrent Neural Networks that are capable of processing sequences of any length
+
+Notebook:
+([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/03a_NLP_and_recurrent_neural_networks.ipynb))
+([github](https://github.com/ccarpenterg/introNLP/blob/master/03a_NLP_and_recurrent_neural_networks.ipynb))
 
 ### 3b) Pretrained Word Embedding and Recurrent Neural Networks
 
@@ -37,9 +45,15 @@ II. RNN with 1 bidirectional LSTM layer and a fine-tuned pretrained word embeddi
 
 III. RNN with 1 bidirectional LSTM layer and a frozen word embedding layer (Glove)
 
+Notebook:
+([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/03b_NLP_and_recurrent_neural_networks.ipynb))
+([github](https://github.com/ccarpenterg/introNLP/blob/master/03b_NLP_and_recurrent_neural_networks.ipynb))
+
 ### 4a) Neural Machine Translation with Sequence-to-Sequence (seq2seq) Models
 
-
+Notebook:
+([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/04a_NLP_and_sequence_to_sequence_RNNs.ipynb))
+([github](https://github.com/ccarpenterg/introNLP/blob/master/04a_NLP_and_sequence_to_sequence_RNNs.ipynb))
 
 ## References
 
