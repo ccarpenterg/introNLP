@@ -77,3 +77,10 @@ Notebook:
 
 [6] [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/). Dan Jurafsky, James H. Martin
 
+**Papers**
+
+[7] [Efficient Estimation of Word Representations in Vector Space (word2vec)](https://arxiv.org/pdf/1301.3781.pdf)
+
+[8] [Sequence to Sequence Learning with Neural Networks (NMT with RNNs)](https://arxiv.org/pdf/1409.3215.pdf)
+
+[9] [Neural Machine Translation by Jointly Learning Align and Translate (Seq2Seq with Attention)](https://arxiv.org/pdf/1409.0473.pdf)
