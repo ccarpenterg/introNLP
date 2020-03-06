@@ -53,11 +53,13 @@ Notebook:
 ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/03b_NLP_and_recurrent_neural_networks.ipynb))
 ([github](https://github.com/ccarpenterg/introNLP/blob/master/03b_NLP_and_recurrent_neural_networks.ipynb))
 
-### 4a) Neural Machine Translation with Sequence-to-Sequence (seq2seq) Models
+### 4a) Neural Machine Translation with a Sequence-to-Sequence Model
 
 Notebook:
 ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/04a_NLP_and_sequence_to_sequence_RNNs.ipynb))
 ([github](https://github.com/ccarpenterg/introNLP/blob/master/04a_NLP_and_sequence_to_sequence_RNNs.ipynb))
+
+### 4b) Neural Machine Translation with a Seq2Seq and Attention Model
 
 ## References
 
@@ -79,8 +81,8 @@ Notebook:
 
 **Papers**
 
-[7] Efficient Estimation of Word Representations in Vector Space (word2vec paper), [Mikolov, et al., 2013](https://arxiv.org/pdf/1301.3781.pdf)
+[7] Efficient Estimation of Word Representations in Vector Space (word2vec paper), [Mikolov 2013](https://arxiv.org/pdf/1301.3781.pdf)
 
-[8] Sequence to Sequence Learning with Neural Networks (NMT with RNNs paper), [Sutskever, et al., 2014](https://arxiv.org/pdf/1409.3215.pdf)
+[8] Sequence to Sequence Learning with Neural Networks (NMT with RNNs paper), [Sutskever 2014](https://arxiv.org/pdf/1409.3215.pdf)
 
-[9] Neural Machine Translation by Jointly Learning Align and Translate (Seq2Seq with Attention paper), [Bahdanau, et al., 2016](https://arxiv.org/pdf/1409.0473.pdf)
+[9] Neural Machine Translation by Jointly Learning Align and Translate (Seq2Seq with Attention paper), [Bahdanau 2016](https://arxiv.org/pdf/1409.0473.pdf)
