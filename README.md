@@ -79,8 +79,8 @@ Notebook:
 
 **Papers**
 
-[7] [Efficient Estimation of Word Representations in Vector Space (word2vec)](https://arxiv.org/pdf/1301.3781.pdf)
+[7] Efficient Estimation of Word Representations in Vector Space (word2vec paper), [Mikolov, et al., 2013](https://arxiv.org/pdf/1301.3781.pdf)
 
-[8] [Sequence to Sequence Learning with Neural Networks (NMT with RNNs)](https://arxiv.org/pdf/1409.3215.pdf)
+[8] Sequence to Sequence Learning with Neural Networks (NMT with RNNs paper), [Sutskever, et al., 2014](https://arxiv.org/pdf/1409.3215.pdf)
 
-[9] [Neural Machine Translation by Jointly Learning Align and Translate (Seq2Seq with Attention)](https://arxiv.org/pdf/1409.0473.pdf)
+[9] Neural Machine Translation by Jointly Learning Align and Translate (Seq2Seq with Attention paper), [Bahdanau, et al., 2016](https://arxiv.org/pdf/1409.0473.pdf)
