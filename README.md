@@ -79,12 +79,16 @@ Notebook:
 
 **NLP Books**
 
-[6] [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/). Dan Jurafsky, James H. Martin
+[6] Speech and Language Processing ([3rd ed. draft](https://web.stanford.edu/~jurafsky/slp3/)). Dan Jurafsky, James H. Martin
+
+[7] Neural Network Methods for Natural Language Processing ([2017](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)). Yoav Goldberg
+
+[8] Deep Learning ([online Version](https://www.deeplearningbook.org/)). Ian Goodfellow, Yoshua Bengio, AAron Courville
 
 **Papers**
 
-[7] Efficient Estimation of Word Representations in Vector Space (word2vec paper), [Mikolov 2013](https://arxiv.org/pdf/1301.3781.pdf)
+[9] Efficient Estimation of Word Representations in Vector Space (word2vec paper), [Mikolov 2013](https://arxiv.org/pdf/1301.3781.pdf)
 
-[8] Sequence to Sequence Learning with Neural Networks (NMT with RNNs paper), [Sutskever 2014](https://arxiv.org/pdf/1409.3215.pdf)
+[10] Sequence to Sequence Learning with Neural Networks (NMT with RNNs paper), [Sutskever 2014](https://arxiv.org/pdf/1409.3215.pdf)
 
-[9] Neural Machine Translation by Jointly Learning Align and Translate (Seq2Seq with Attention paper), [Bahdanau 2016](https://arxiv.org/pdf/1409.0473.pdf)
+[11] Neural Machine Translation by Jointly Learning Align and Translate (Seq2Seq with Attention paper), [Bahdanau 2016](https://arxiv.org/pdf/1409.0473.pdf)
