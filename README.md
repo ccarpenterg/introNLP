@@ -63,6 +63,8 @@ Notebook:
 
 ### 4b) Neural Machine Translation with a Seq2Seq and Attention Model
 
+Notebook: ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/04b_NLP_and_sequence_to_sequence_RNNs.ipynb)) ([github](https://github.com/ccarpenterg/introNLP/blob/master/04b_NLP_and_sequence_to_sequence_RNNs.ipynb))
+
 ## References
 
 **Lectures and Presentations**
