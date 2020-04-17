@@ -57,6 +57,8 @@ Notebook:
 
 ### 4a) Neural Machine Translation with a Sequence-to-Sequence Model
 
+Neural Machine Translation is the task of automatically translating text from a source language to a target language, by using neural networks. We introduce the encoder-decoder model and we train it on a parallel corpus.
+
 Notebook:
 ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/04a_NLP_and_sequence_to_sequence_RNNs.ipynb))
 ([github](https://github.com/ccarpenterg/introNLP/blob/master/04a_NLP_and_sequence_to_sequence_RNNs.ipynb))
