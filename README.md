@@ -13,9 +13,7 @@ Notebook:
 
 In this notebook, we build and train a shallow neural network for the sentiment analysis of the IMDB Reviews Dataset. Since regular neural networks are not designed for processing sequences of variable length, we use the Gloval Average Pooling to convert sequence of word embedding vectors into one vector. In this manner, we turn every IMDB review into a vector that represents an embedding for the entire sequence. This vector is then fed to a neural network with three layers: input layer, hidden layer and output layer.
 
-The last layer contains only one neuron, and it represents the probability for a particular IMDB review to be positive. This last layer uses sigmoid as the activation function.
-
-Our model is trained as an end-to-end neural network, meaning that the network learns both the word embeddings and the layers' weights at the same time.
+The last layer contains only one neuron, and it represents the probability for a particular IMDB review to be positive. This last layer uses sigmoid as the activation function. Our model is trained as an end-to-end neural network, meaning that the network learns both the word embeddings and the layers' weights at the same time.
 
 Notebook:
 ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/02a_NLP_and_neural_networks.ipynb))
@@ -25,9 +23,7 @@ Notebook:
 
 In the previous notebook, we trained an embedding layer from scratch using a subwords representation of around 8,000 tokens. Now we will be working with pretrained sentence embeddings that have been trained on the Google News dataset (200 billion words).
 
-Each IMDB review is fed to the pretrained sentence embedding layer and subsequently converted into a vector. This vector is the processed by a shallow neural network of 3 layers: input layer, hidden layer and output layer.
-
-We use two different pretrained sentence embeddings and try two different approaches for training our neural network. In one case we freeze our pretrained sentence embeddings' weights and in the other, we fine-tune them.
+Each IMDB review is fed to the pretrained sentence embedding layer and subsequently converted into a vector. This vector is the processed by a shallow neural network of 3 layers: input layer, hidden layer and output layer. We use two different pretrained sentence embeddings and try two different approaches for training our neural network. In one case we freeze our pretrained sentence embeddings' weights and in the other, we fine-tune them.
 
 Notebook:
 ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/02b_NLP_and_neural_networks.ipynb))
@@ -64,6 +60,8 @@ Notebook:
 ([github](https://github.com/ccarpenterg/introNLP/blob/master/04a_NLP_and_sequence_to_sequence_RNNs.ipynb))
 
 ### 4b) Neural Machine Translation with a Seq2Seq and Attention Model
+
+In the traditional seq2seq model, the encoder
 
 Notebook: ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/04b_NLP_and_sequence_to_sequence_RNNs.ipynb)) ([github](https://github.com/ccarpenterg/introNLP/blob/master/04b_NLP_and_sequence_to_sequence_RNNs.ipynb))
 
