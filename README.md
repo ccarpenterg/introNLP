@@ -31,7 +31,7 @@ Notebook:
 
 ### 3a) Natural Language Processing and Recurrent Neural Networks
 
-We now introduce the Recurrent Neural Networks that are capable of processing sequences of any length
+We now introduce the Recurrent Neural Networks that are capable of processing sequences of varying length. In contrast with the feed-forward neural networks seen in the previous section, recurrent neural networks (or RNNs) have the ability to process sequences of variable length and learn representations that capture the relationships between the sequence's elements.
 
 Notebook:
 ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/03a_NLP_and_recurrent_neural_networks.ipynb))
@@ -85,7 +85,7 @@ Notebook: ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/in
 
 [7] Neural Network Methods for Natural Language Processing ([2017](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)). Yoav Goldberg
 
-[8] Deep Learning ([online Version](https://www.deeplearningbook.org/)). Ian Goodfellow, Yoshua Bengio, AAron Courville
+[8] Deep Learning ([online version](https://www.deeplearningbook.org/)). Ian Goodfellow, Yoshua Bengio, AAron Courville
 
 **Papers**
 
