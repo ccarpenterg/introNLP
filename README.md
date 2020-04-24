@@ -63,6 +63,8 @@ Notebook:
 
 The model presented in the previous notebook is part of a group of encoder-decoder models that encode a source sentence into a vector (the encoder RNN's hidden state) of fixed length from which the model generate a target sentence (the translation).
 
+Based on the premise that the use of this vector is a bottleneck, Bahdanau (2016) introduced the sequence-to-sequence with Attention model which automatically search for the elements in the source sentence that are relevant to predicting the next target sentence word, without representing these relationships explicitly.
+
 Notebook: ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/04b_NLP_and_sequence_to_sequence_RNNs.ipynb)) ([github](https://github.com/ccarpenterg/introNLP/blob/master/04b_NLP_and_sequence_to_sequence_RNNs.ipynb))
 
 ## References
