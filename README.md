@@ -61,7 +61,7 @@ Notebook:
 
 ### 4b) Neural Machine Translation with a Seq2Seq and Attention Model
 
-In the traditional seq2seq model, the encoder
+The model presented in the previous notebook is part of a group of encoder-decoder models that encode a source sentence into a vector (the encoder RNN's hidden state) of fixed length from which the model generate a target sentence (the translation).
 
 Notebook: ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/04b_NLP_and_sequence_to_sequence_RNNs.ipynb)) ([github](https://github.com/ccarpenterg/introNLP/blob/master/04b_NLP_and_sequence_to_sequence_RNNs.ipynb))
 
