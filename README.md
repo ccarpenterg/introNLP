@@ -53,7 +53,7 @@ Notebook:
 
 ### 4a) Neural Machine Translation with a Sequence-to-Sequence Model
 
-Neural Machine Translation is the task of automatically translating text from a source language to a target language, by using neural networks. We introduce the encoder-decoder model and we train it on a parallel corpus.
+Neural Machine Translation is the task of automatically translating text from a source language to a target language with neural networks. The Sequence to Sequence model is presented
 
 Notebook:
 ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/04a_NLP_and_sequence_to_sequence_RNNs.ipynb))
@@ -61,9 +61,9 @@ Notebook:
 
 ### 4b) Neural Machine Translation with a Seq2Seq and Attention Model
 
-The model presented in the previous notebook is part of a group of encoder-decoder models that encode a source sentence into a vector (the encoder RNN's hidden state) of fixed length from which the model generate a target sentence (the translation).
+The model presented in the previous notebook is part of a group of encoder-decoder models that encode a source sentence into a vector (the encoder RNN's hidden state) of fixed length from which the model generates a target sentence (the translation). Based on the premise that the use of this vector is a bottleneck, Bahdanau (2016) introduced the Sequence-to-Sequence with Attention model which automatically search for the elements in the source sentence that are relevant to predicting the next target sentence word, without explicitly representing these relationships.
 
-Based on the premise that the use of this vector is a bottleneck, Bahdanau (2016) introduced the sequence-to-sequence with Attention model which automatically search for the elements in the source sentence that are relevant to predicting the next target sentence word, without representing these relationships explicitly.
+The same parallel corpus of Spanish-English sentences is used to train a sequence to sequence model with attention model.
 
 Notebook: ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/04b_NLP_and_sequence_to_sequence_RNNs.ipynb)) ([github](https://github.com/ccarpenterg/introNLP/blob/master/04b_NLP_and_sequence_to_sequence_RNNs.ipynb))
 
