@@ -31,7 +31,7 @@ Notebook:
 
 ### 3a) Natural Language Processing and Recurrent Neural Networks
 
-We now introduce the Recurrent Neural Networks that are capable of processing sequences of varying length. In contrast with the feed-forward neural networks seen in the previous section, recurrent neural networks (or RNNs) have the ability to process sequences of variable length and learn representations that capture the relationships between the sequence's elements.
+In contrast with the feed-forward neural networks seen in the previous section, Recurrent Neural Networks (or RNNs) have the ability to process sequences of variable length and learn representations that capture the relationships between the sequence's elements.
 
 Notebook:
 ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/03a_NLP_and_recurrent_neural_networks.ipynb))
@@ -39,13 +39,7 @@ Notebook:
 
 ### 3b) Pretrained Word Embedding and Recurrent Neural Networks
 
-In this section, we train 4 different RNNs for the taks of sentiment analysis
-
-I. RNN with 1 bidirectional LSTM layer and word embeding layer trained from scratch
-
-II. RNN with 1 bidirectional LSTM layer and a fine-tuned pretrained word embedding layer (GloVe)
-
-III. RNN with 1 bidirectional LSTM layer and a frozen word embedding layer (Glove)
+RNN are very flexible models and it is possible to use pretrained word embeddings instead of training a word embedding layer from scratch. This notebook presents three different scenarios: (i) training an embedding layer from zero, (ii) fine-tuning a pretrained embedding such as GloVe or word2vec, and (iii) frozing the layer with the pretrained embeddings.
 
 Notebook:
 ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/03b_NLP_and_recurrent_neural_networks.ipynb))
