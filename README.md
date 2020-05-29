@@ -35,6 +35,8 @@ Notebook:
 
 In contrast with the feed-forward neural networks seen in the previous section, Recurrent Neural Networks (or RNNs) have the ability to process sequences of variable length and learn representations that capture the relationships between the sequence's elements.
 
+<img src="https://user-images.githubusercontent.com/114733/78505113-3c81b580-773f-11ea-8a97-088fd306bdc4.jpg" title="RNN" />
+
 Notebook:
 ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/03a_NLP_and_recurrent_neural_networks.ipynb))
 ([github](https://github.com/ccarpenterg/introNLP/blob/master/03a_NLP_and_recurrent_neural_networks.ipynb))
