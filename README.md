@@ -65,6 +65,8 @@ The model presented in the previous notebook is part of a group of encoder-decod
 
 The same parallel corpus of Spanish-English sentences is used to train a sequence to sequence model with attention model.
 
+<img src="https://user-images.githubusercontent.com/114733/80148688-6b8f8800-8583-11ea-84f3-fb1d464bcebf.jpg" title="attention" />
+
 Notebook: ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/04b_NLP_and_sequence_to_sequence_RNNs.ipynb)) ([github](https://github.com/ccarpenterg/introNLP/blob/master/04b_NLP_and_sequence_to_sequence_RNNs.ipynb))
 
 ## References
