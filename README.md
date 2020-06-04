@@ -5,7 +5,7 @@ Introduction to NLP with Deep Learning
 
 The first notebook introduces some of the fundamental concepts of Natural Language Processing with an emphasis on the aspects that are relevant to Deep Learning. It introduces the concepts of language modeling, N-grams, vector semantics, word embeddings, etc.
 
-<img src="https://user-images.githubusercontent.com/114733/75586670-b5606400-5a53-11ea-9df0-648c9a07e5f8.jpg" title="embeddings" />
+<img src="https://user-images.githubusercontent.com/114733/83787424-c546a000-a661-11ea-8f87-b334612f800e.jpg" title="embeddings" />
 
 Notebook:
 ([Jupyter nbviewer](https://nbviewer.jupyter.org/github/ccarpenterg/introNLP/blob/master/01a_intro_NLP_and_word_embeddings.ipynb))
