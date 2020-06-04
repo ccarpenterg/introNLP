@@ -1,6 +1,8 @@
 Introduction to NLP with Deep Learning
 ======================================
 
+This repository is a collection of notebooks that serves as an introduction to Natural Language Processing and it's loosely based on the Natural Language Processing with Deep Learning (CS224n) class taught at Stanford University by Chris Manning. The models are trained using Tensorflow and PyTorch; the diagrams are drawn with Draw.io and the Math symbols are written with LaTeX.
+
 ### 1) Introduction to NLP and Word Embeddings
 
 The first notebook introduces some of the fundamental concepts of Natural Language Processing with an emphasis on the aspects that are relevant to Deep Learning. It introduces the concepts of language modeling, N-grams, vector semantics, word embeddings, etc.
