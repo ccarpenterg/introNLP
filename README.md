@@ -1,7 +1,7 @@
 Introduction to NLP with Deep Learning
 ======================================
 
-This repository is a collection of notebooks that serves as an introduction to Natural Language Processing, and it's loosely based on the Natural Language Processing with Deep Learning (CS224n) class taught at Stanford University by Chris Manning. The models are trained using Tensorflow and PyTorch; the diagrams are drawn with Draw.io and the Math symbols are written with LaTeX.
+This repository is a collection of notebooks that serves as an introduction to Natural Language Processing, and it's loosely based on the [Natural Language Processing with Deep Learning (CS224n)](http://web.stanford.edu/class/cs224n/) course taught at Stanford University by [Chris Manning](https://nlp.stanford.edu/~manning/). The models are trained using [Tensorflow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/); the diagrams are drawn with [Draw.io](https://www.draw.io/) and the Math symbols are written with LaTeX.
 
 This introduction assumes some background on engineering, especifically on Calculus, Linear Algebra, Probability and Statistics, and some experience programming Python.
 
