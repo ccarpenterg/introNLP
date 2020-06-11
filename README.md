@@ -17,7 +17,7 @@ Notebook:
 
 ### 2a) Natural Language Processing and Neural Networks
 
-In this notebook, we build and train a shallow neural network for the sentiment analysis of the IMDB Reviews Dataset. Since regular neural networks are not designed for processing sequences of variable length, we use the Gloval Average Pooling to convert sequence of word embedding vectors into one vector. In this manner, we turn every IMDB review into a vector that represents an embedding for the entire sequence. This vector is then fed to a neural network with three layers: input layer, hidden layer and output layer.
+In this notebook, we build and train a neural network for the sentiment analysis of the IMDB Reviews Dataset. Since regular neural networks are not designed for processing sequences of variable length, we use the Gloval Average Pooling to convert sequence of word embedding vectors into one vector. In this manner, we turn every IMDB review into a vector that represents an embedding for the entire sequence of words. This vector is then fed to a neural network with three layers: input layer, hidden layer and output layer.
 
 The last layer contains only one neuron, and it represents the probability for a particular IMDB review to be positive. This last layer uses sigmoid as the activation function. Our model is trained as an end-to-end neural network, meaning that the network learns both the word embeddings and the layers' weights at the same time.
 
